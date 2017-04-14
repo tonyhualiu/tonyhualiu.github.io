@@ -1,6 +1,6 @@
 name: Tony's Lyric of Life
 description: Sample description goes here
-url: #
+url: https://tonyhualiu.github.io
 gems: [jekyll-paginate]
 baseurl: /
 permalink: /:title/
