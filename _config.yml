@@ -2,7 +2,7 @@ name: Tony's Lyric of Life
 description: Sample description goes here
 url: https://tonyhualiu.github.io
 gems: [jekyll-paginate]
-baseurl: /
+baseurl: tonyhualiu.github.io
 permalink: /:title/
 paginate: 8
 paginate_path: /page/:num/
