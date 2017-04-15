@@ -12,14 +12,9 @@ author_dir: /author
 author_title_prefix: 'Posted by '
 media_folder: /img
 author_default_avatar: /profile-pic.jpg
-tumblr: "#"
-pinterest: "#"
-instagram: "#"
-twitter: "#"
-facebook: "#"
-youtube: "#"
-vimeo: "#"
-soundcloud: "#"
+instagram: "https://www.instagram.com/tony_hua_liu/"
+facebook: "https://www.facebook.com/profile.php?id=100003007100484"
+linkedin: "https://www.linkedin.com/in/tony-hua-liu-8a821978/"
 
 encoding: utf-8
 defaults:
