@@ -1,5 +1,5 @@
 url: #https://tonyhualiu.github.io
-baseurl: #tonyhualiu.github.io
+baseurl: /
 name: Tony Liu
 description: Sample description goes here
 gems: [jekyll-paginate]
