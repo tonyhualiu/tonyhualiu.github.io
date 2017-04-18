@@ -12,7 +12,12 @@
                 </li>
                 -->
                 <li>
-                  <a href="/">Home<a/>
+                  <a href="/">Home</a>
+                </li>
+                <li class="parent"><a href="#">Categories</a>
+                  <ul>
+                    {% include category_list.html %}
+                  </ul>
                 </li>
                 <li>
                   <a href="{{ site.baseurl | replace: '//', '/' }}/archive">Archive</a>
