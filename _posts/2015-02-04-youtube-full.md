@@ -5,6 +5,7 @@ type: youtube
 yt-video-id: hPX9h5OrlhU
 homedisplay: iframe
 title: YouTube full
+hidden: 1
 tags: [video, music, iframe]
 category: [video]
 ---

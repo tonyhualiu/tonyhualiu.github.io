@@ -3,6 +3,7 @@ author: person
 layout: post_full
 title: Full Width Post
 featimg: 2.jpg
+hidden: 1
 tags: [text]
 category: [standard]
 ---

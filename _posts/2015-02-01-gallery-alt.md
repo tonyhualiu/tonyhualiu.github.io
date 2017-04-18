@@ -5,6 +5,7 @@ type: gallery
 featimg: /galleries/gallery-standard-post/2.jpg
 title: Gallery Alternative
 gallery-id: gallery
+hidden: 1
 tags: [gallery, image]
 category: [image]
 ---

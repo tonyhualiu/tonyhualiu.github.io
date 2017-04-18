@@ -3,6 +3,9 @@ layout: index
 description: the good site of life
 ---
 {% for post in paginator.posts %}
+    {% if post.hidden == 1 %}
+      {% continue %}
+    {% endif %}
     {% include article_index.html %}
 {% endfor %}
 
