@@ -43,6 +43,16 @@
         </nav>
         <nav class="iconnav">
             <ul>
+                {% if site.github %}
+                    <li class="social">
+                        <a href="{{ site.github }}" class="github"><i class="fa fa-github"></i></a>
+                    </li>
+                {% endif %}
+                {% if site.linkedin %}
+                    <li class="social">
+                        <a href="{{ site.linkedin }}" class="linkedin"><i class="fa fa-linkedin"></i></a>
+                    </li>
+                {% endif %}
                 {% if site.tumblr %}
                     <li class="social">
                         <a href="{{ site.tumblr }}" class="tumblr"><i class="fa fa-tumblr"></i></a>
@@ -90,11 +100,6 @@
                     </li>
                 {% endif %}
 
-                {% if site.linkedin %}
-                    <li class="social">
-                        <a href="{{ site.linkedin }}" class="linkedin"><i class="fa fa-linkedin"></i></a>
-                    </li>
-                {% endif %}
             </ul>
         </nav>
         <a href='#menu' class="toggle_link noline">
